@@ -1,0 +1,7 @@
+[package]
+name = "juniper_relay"
+version = "0.0.1"
+authors = ["Brendan Molloy <brendan@bbqsrc.net>"]
+
+[dependencies]
+juniper = "^0.9.0"
