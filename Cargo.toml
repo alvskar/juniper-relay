@@ -1,7 +1,10 @@
 [package]
 name = "juniper_relay"
+description = "Adds support for the Relay specification to Juniper."
 version = "0.0.1"
 authors = ["Brendan Molloy <brendan@bbqsrc.net>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/bbqsrc/juniper-relay"
 
 [dependencies]
 juniper = "^0.9.0"
