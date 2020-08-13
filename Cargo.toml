@@ -9,4 +9,4 @@ repository = "https://github.com/alvskar/juniper-relay"
 [dependencies]
 futures = "0.3.4"
 
-juniper = { git = "https://github.com/graphql-rust/juniper", rev = "4647a32b" }
+juniper = { git = "https://github.com/graphql-rust/juniper", rev = "54e0e208fceb4bdac720a5b6c33525730457370d" }
